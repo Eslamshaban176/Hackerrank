@@ -30,4 +30,4 @@
      1. Structs [Here](https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true)
      2. Class [Here](https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true)
      3. Classes and Objects [Here](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true)
-     4. Box It![Here](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true)
+     4. Box It! [Here](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true)
