@@ -13,7 +13,6 @@
   * Stack
     1. Balanced Brackets [Here](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
 
-<hr>
 # Problem Solving
   * Introduction
      1. Say "Hello, World!" With C++ [Here](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)
