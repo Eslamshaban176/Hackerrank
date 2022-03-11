@@ -13,7 +13,6 @@
   * Stack
     1. Balanced Brackets [Here](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
 
-<br>
 <hr>
 # Problem Solving
   * Introduction
