@@ -10,6 +10,7 @@
     6. Print the Elements [Here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true)
     7. Print in Reverse [Here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true)
     8. Compare two linked lists [Here](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true)
+    9. Merge two sorted linked lists [Here](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem?isFullScreen=true)
 
   * Stack
     1. Balanced Brackets [Here](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
